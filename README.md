@@ -7,3 +7,5 @@ Um aplicativo suportado somente para Windows
 
 # Linguagem Agm Auto Gui Machine
 Sistema possui a linguagem Agm Auto Gui Machine Versão:GV1.00@
+
+##### Regras
