@@ -10,4 +10,7 @@ Sistema possui a linguagem Agm Auto Gui Machine Versão:GV1.00g
 
 ### Regras da linguagem Agm
 <app_create> # necessário nunca esqueça desse parser 
+
 <app_name> (nome do aplicativo) # Também necessário 
+
+<app_scroll> somente necessário se elementos não caberem no quadro
