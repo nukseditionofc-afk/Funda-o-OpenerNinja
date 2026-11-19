@@ -14,3 +14,5 @@ Sistema possui a linguagem Agm Auto Gui Machine Versão:GV1.00g
 <app_name> (nome do aplicativo) # Também necessário 
 
 <app_scroll> somente necessário se elementos não caberem no quadro
+
+###### Por exemplo:
