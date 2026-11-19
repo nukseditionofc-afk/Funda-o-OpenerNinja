@@ -6,6 +6,8 @@ Um aplicativo suportado somente para Windows
 ## Funções
 
 # Linguagem Agm Auto Gui Machine
-Sistema possui a linguagem Agm Auto Gui Machine Versão:GV1.00@
+Sistema possui a linguagem Agm Auto Gui Machine Versão:GV1.00g
 
- > [!Regras Da Linguagem ]
+### Regras da linguagem Agm
+<app_create> # necessário nunca esqueça desse parser 
+<app_name> (nome do aplicativo) # Também necessário 
