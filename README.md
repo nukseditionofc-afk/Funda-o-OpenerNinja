@@ -16,12 +16,12 @@ Mini-games, Musicas, Noticias entre outros
 # Linguagem Agm Auto Gui Machine
 Sistema possui a linguagem Agm Auto Gui Machine Versão:GV1.00g
 
-### Regras da linguagem Agm
+### Regras necessárias da linguagem Agm
 <app_create> # necessário nunca esqueça desse parser 
 
 <app_name> (nome do aplicativo) # Também necessário 
 
-<app_scroll> somente necessário
+<app_scroll> # somente necessário se o seub projeto possuir muitas linhas de elementos
 ###### Por exemplo:
 <app_create><br>
 <app_name> (Meu Projeto em agm)
