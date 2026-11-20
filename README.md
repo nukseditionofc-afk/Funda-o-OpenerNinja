@@ -41,5 +41,9 @@ Você vai utiliza o parser <app_text>
 line1_text=L Ola mundo. >  
 ###### Pode colocar quantas linhas quiser 
 
+Sua janela fica assim<br>
+<img width="402" height="533" alt="Captura de tela 2026-11-20 111200" src="https://github.com/user-attachments/assets/2e8a4aab-04f4-49b3-a6cc-d10b30dbaa83" />
+
 ---
+
 > &copy; NuksEdition Corporation
