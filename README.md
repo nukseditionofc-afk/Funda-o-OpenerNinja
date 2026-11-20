@@ -31,15 +31,15 @@ Salve esse arquivo com qualquer nome pode ser: main.agm, Clique duas vezes nele,
 ##### Como desenhar textos 
 Você vai utiliza o parser <app_text> 
 ###### Uma base disso
-#Parsers necessários
+###### Parsers necessários
 <app_create><br>
 <app_name>(Agm Testes)<br>
 <app_scroll><br>
-#nota sempre pule uma linha quando incluir elementos você nunca vai pular para os parsers necessários 
+###### nota sempre pule uma linha quando incluir elementos você nunca vai pular para os parsers necessários 
 
 <app_text><br>
 line1_text=L Ola mundo. >
 
 ---
->Ceo Edu Almeida
+>Ceo Edu Almeida<br>
 > &copy; NuksEdition Corporation
