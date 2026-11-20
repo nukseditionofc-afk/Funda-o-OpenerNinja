@@ -38,7 +38,7 @@ Você vai utiliza o parser <app_text>
 ###### nota sempre pule uma linha quando incluir elementos você nunca vai pular para os parsers necessários 
 
 <app_text><br>
-line1_text=L Ola mundo. >
+line1_text=L Ola mundo. > ###### Pode colocar quantas linhas quiser
 
 ---
 > &copy; NuksEdition Corporation
