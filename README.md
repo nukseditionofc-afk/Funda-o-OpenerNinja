@@ -41,5 +41,4 @@ Você vai utiliza o parser <app_text>
 line1_text=L Ola mundo. >
 
 ---
->Ceo Edu Almeida<br>
 > &copy; NuksEdition Corporation
