@@ -28,4 +28,4 @@ Você vai utiliza o parser <app_text>
 <app_name> (Meu Projeto em agm)
 
 <app_text> # inclui os textos sempre coloque caso precise adicionar textos
-line1_text= L Olá mundo. ) # adicionará um texto escrito Olá mundo no quadro 
+line1_text=L Ola mundo. > # adicionará um texto escrito Olá mundo no quadro 
