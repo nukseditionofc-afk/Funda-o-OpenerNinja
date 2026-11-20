@@ -37,3 +37,6 @@ Você vai utiliza o parser <app_text>
 
 <app_text><br>
 line1_text=L Ola mundo. >
+
+---
+> &copy; NuksEdition Corporation
